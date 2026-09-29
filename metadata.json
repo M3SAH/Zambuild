@@ -1,0 +1,6 @@
+{
+  "name": "ZamBuild Directory",
+  "description": "Zambia's premier construction directory connecting certified NCC contractors, heavy plant hire, solar engineers, and builders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
